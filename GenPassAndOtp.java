@@ -1,8 +1,5 @@
- 
-// Java code to explain how to generate random
-// password
 
-// Here we are using random() method of util
+// Here we are using random() method of util package 
 // class in Java
 import java.util.*;
 
